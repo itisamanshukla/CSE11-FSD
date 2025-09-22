@@ -1,0 +1,27 @@
+*{
+    background-color: rgb(189, 251, 255);
+}
+#d1{
+    display: flex;
+    flex: 1;
+    background-color: aqua;
+    border: 1px solid black;
+    width: 750px;
+    height: 600px;
+    align-content: initial;
+}
+#d2{
+    display: flex;
+    flex: 1;
+    background-color: aquamarine;
+    border: 1px solid black;
+    width: 750px;
+    height: 600px;
+    /* size 4rem, bg color black,  input color white */
+}
+header{
+    border: 1px solid black;
+    background-color: black;
+
+    
+}
